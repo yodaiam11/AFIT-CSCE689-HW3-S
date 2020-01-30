@@ -78,7 +78,7 @@ void PCalc::printPrimes(const char *filename) {
       return;      
    }
 
-   for (int i=0; i<asize; i++) {
+   for (unsigned int i=0; i<asize; i++) {
       if (primelist[i])
 	 outfile << i << "\n";
    }
