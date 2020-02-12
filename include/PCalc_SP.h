@@ -9,4 +9,18 @@
 // This class should manage the single process implementation of the prime number generator. I'd recommend
 // getting this working first, then tackling multithreaded
 
+class PCalc_SP : public PCalc
+{
+
+public:
+	PCalc_SP(unsigned int arraySize);
+	~PCalc_SP();
+
+	void markNonPrimes();
+
+	//bool* primelist;///
+
+};
+
+
 #endif
