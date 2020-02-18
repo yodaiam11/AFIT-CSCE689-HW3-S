@@ -1,7 +1,7 @@
 #include "PCalc_SP.h"
 
 #include <iostream>///
-#include <bits/stdc++.h>///
+//#include <bits/stdc++.h>///
 
 //source:https://www.geeksforgeeks.org/c-program-for-sieve-of-eratosthenes/
 

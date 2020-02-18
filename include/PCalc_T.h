@@ -19,6 +19,11 @@ public:
 
 	 void markNonPrimes();
 
+	 unsigned int threadSize;
+	 //void thread1();
+	 //void thread2();
+	 //bool* primethreadlist;
+
 };
 
 
